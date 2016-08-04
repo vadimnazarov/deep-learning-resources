@@ -8,3 +8,5 @@ https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-traini
 https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/
 
 Convolution explained: http://timdettmers.com/2015/03/26/convolution-deep-learning/
+
+http://colah.github.io
