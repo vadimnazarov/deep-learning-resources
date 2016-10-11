@@ -4,7 +4,7 @@ A collection of interesting posts and papers on deep learning.
 
 ## Introduction
 
-1. [[part1](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)][[part2](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/)][[part3](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/)] Nvidia's 3-part introduction to deep learning
+1. [[part1](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)] [[part2](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/)] [[part3](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/)] Nvidia's 3-part introduction to deep learning
 
 Convolution explained
 - http://timdettmers.com/2015/03/26/convolution-deep-learning/
