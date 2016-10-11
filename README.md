@@ -4,22 +4,21 @@ A collection of interesting posts and papers on deep learning.
 
 ## Introduction
 
-1. Nvidia's 3-part introduction to deep learning
+Nvidia's 3-part introduction to deep learning
 - https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/
 - https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-history-training/
 - https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-sequence-learning/
 
-2. Convolution explained
+Convolution explained
 - http://timdettmers.com/2015/03/26/convolution-deep-learning/
 
-3. Excellent blog about different aspects of deep learning
+Excellent blog about different aspects of deep learning
 - http://colah.github.io
 
 
 ## Advanced
 
-1. Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
-- http://www.deeplearningbook.org
+[website](http://www.deeplearningbook.org) Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
 
 
 ## Convolutional neural networks
