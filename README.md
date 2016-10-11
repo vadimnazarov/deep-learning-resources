@@ -18,7 +18,7 @@ Excellent blog about different aspects of deep learning
 
 ## Advanced
 
-[website](http://www.deeplearningbook.org) Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
+1. [website](http://www.deeplearningbook.org) Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
 
 
 ## Convolutional neural networks
