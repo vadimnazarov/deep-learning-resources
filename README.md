@@ -15,11 +15,11 @@ Convolution explained
 Excellent blog about different aspects of deep learning
 - http://colah.github.io
 
-Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
-- http://www.deeplearningbook.org
-
 
 ## Advanced
+
+Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
+- http://www.deeplearningbook.org
 
 
 ## Convolutional neural networks
