@@ -18,8 +18,8 @@ Excellent blog about different aspects of deep learning
 Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
 - http://www.deeplearningbook.org
 
-Reinforcement Learning (a book by Richard S. Sutton and Andrew G. Barto)
-- https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
+
+## Advanced
 
 
 ## Convolutional neural networks
@@ -39,6 +39,10 @@ Karthik Narasimhan: Navigating Natural Language Using Reinforcement Learning
 
 
 ## Reinforcement learning
+
+Reinforcement Learning (a book by Richard S. Sutton and Andrew G. Barto)
+- https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
+
 David Silver course on Reinforcement Learning
 - https://www.youtube.com/watch?v=2pWv7GOvuf0
 
