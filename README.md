@@ -15,6 +15,12 @@ Convolution explained
 Excellent blog about different aspects of deep learning
 - http://colah.github.io
 
+Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
+- http://www.deeplearningbook.org
+
+Reinforcement Learning (a book by Richard S. Sutton and Andrew G. Barto)
+- https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
+
 
 ## Convolutional neural networks
 
