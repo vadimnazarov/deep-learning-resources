@@ -15,6 +15,7 @@ A collection of interesting posts and papers on deep learning.
 
 1. [[website](http://www.deeplearningbook.org)] Deep Learning (a book by Ian Goodfellow, Yoshua Bengio and Aaron Courville)
 
+2. [[github](https://github.com/gokceneraslan/awesome-deepbio)] Deep learning in bioinformatics, list of papers
 
 ## Convolutional neural networks
 
