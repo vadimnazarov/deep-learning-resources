@@ -19,6 +19,8 @@ A collection of interesting posts and papers on deep learning.
 
 3. [[webiste](http://www.asimovinstitute.org/neural-network-zoo/)] The neural network zoo - cheat sheet with neural network architectures
 
+4. [[github](http://ethereon.github.io/netscope/quickstart.html)] Visualisation tool for networks
+
 ## Convolutional neural networks
 
 1. [[vk.com](https://vk.com/videos-44016343?section=album_54932240)] CS231n: Convolutional Neural Networks for Visual Recognition
