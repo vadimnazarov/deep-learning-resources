@@ -17,6 +17,8 @@ A collection of interesting posts and papers on deep learning.
 
 2. [[github](https://github.com/gokceneraslan/awesome-deepbio)] Deep learning in bioinformatics, list of papers
 
+3. [[webiste](http://www.asimovinstitute.org/neural-network-zoo/)] The neural network zoo - cheat sheet with neural network architectures
+
 ## Convolutional neural networks
 
 1. [[vk.com](https://vk.com/videos-44016343?section=album_54932240)] CS231n: Convolutional Neural Networks for Visual Recognition
