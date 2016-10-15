@@ -17,7 +17,7 @@ A collection of interesting posts and papers on deep learning.
 
 2. [[github](https://github.com/gokceneraslan/awesome-deepbio)] Deep learning in bioinformatics, list of papers
 
-3. [[webiste](http://www.asimovinstitute.org/neural-network-zoo/)] The neural network zoo - cheat sheet with neural network architectures
+3. [[website](http://www.asimovinstitute.org/neural-network-zoo/)] The neural network zoo - cheat sheet with neural network architectures
 
 4. [[github](http://ethereon.github.io/netscope/quickstart.html)] Visualisation tool for networks
 
@@ -40,6 +40,14 @@ A collection of interesting posts and papers on deep learning.
 2. [[youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)] David Silver's course on Reinforcement Learning
 
 3. [[youtube](https://www.youtube.com/watch?v=7s-erJbCkaY)] Karthik Narasimhan: Navigating Natural Language Using Reinforcement Learning
+
+4. [[post](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)] Using Keras and Deep Q-Network to Play FlappyBird
+
+5. [[post](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)] Using Keras and Deep Deterministic Policy Gradient to play TORCS
+
+6. [[post](https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/)] Series of posts "Let’s make a DQN"
+
+7. [[arxiv](https://arxiv.org/abs/1606.04671)] [[notes 1](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)] [[notes 2](https://blog.acolyer.org/2016/10/11/progressive-neural-networks/)] Progressive neural networks
 
 
 ## Generative models
